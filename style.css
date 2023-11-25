@@ -1,0 +1,22 @@
+
+.contain{
+    height: 60vh;
+    width: 30%;
+    text-align: center;
+    border: 2px solid black;
+    padding-inline:20px ;
+}
+.row{
+    margin: 10px;
+}
+.button{
+    width: 66px;
+    height: 40px;
+   border: 2px solid black;
+}
+.text{
+    width: 270px;
+    height: 40px;
+    border: 1px solid black;
+}
+
